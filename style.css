@@ -1,0 +1,10 @@
+#canvas1{
+background-color:white;
+border: purple;
+border-width: 20px;
+border-style: solid;
+}
+body{
+    text-align: center;
+    background-color: crimson;
+}
